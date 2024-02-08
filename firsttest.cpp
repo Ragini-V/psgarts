@@ -3,7 +3,7 @@
  
 using namespace std;
  
-bool isPalindrome(string str) {
+bool isPalindrome() {
     int low = 0;
     int high = str.size() - 1;
  
